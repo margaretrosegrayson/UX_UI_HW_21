@@ -9,3 +9,15 @@
     width: auto;
     text-align: center;
 }
+
+.container {
+    padding-top: 50px !important;
+}
+
+.standard {
+    background-color: #007bff;
+}
+
+.standard a {
+    color: white !important;
+}
