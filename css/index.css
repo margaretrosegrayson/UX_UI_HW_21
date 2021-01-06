@@ -1,0 +1,23 @@
+.navbar-brand img{
+    width: 50px !important;
+    height auto !important;
+}
+
+.jumbotron {
+    background-image: url(../images/cupcakes.jpg);
+    height: 100vh !important;
+    width: auto;
+    text-align: center;
+}
+
+.container {
+    padding-top: 50px !important;
+}
+
+.standard {
+    background-color: #007bff;
+}
+
+.standard a {
+    color: white !important;
+}
