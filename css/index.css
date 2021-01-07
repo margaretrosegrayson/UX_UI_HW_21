@@ -4,10 +4,11 @@
 }
 
 .jumbotron {
-    background-image: url(../images/cupcakes.jpg);
+    background-image: url(../images/cupcakes-light.jpg);
     height: 100vh !important;
     width: auto;
     text-align: center;
+    padding-top: 350px;
 }
 
 .container {
@@ -20,4 +21,23 @@
 
 .standard a {
     color: white !important;
+}
+
+.start {
+    background-image: url(../images/ingredients.jpg);
+    height: 100vh;
+    width: auto;
+    text-align: center;
+}
+
+.start h1 {
+    color: white;
+}
+
+.tips {
+    background-image: url(../images/tips.jpg);
+    height: 100vh;
+    width: auto;
+    text-align: center;
+    color: white;
 }
