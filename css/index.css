@@ -49,3 +49,10 @@
     background-size: cover;
 }
 
+.infographic {
+    padding-bottom: 50px;
+}
+
+.section-1 {
+    padding-bottom: 50px !important;
+}
