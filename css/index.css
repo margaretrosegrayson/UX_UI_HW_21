@@ -1,18 +1,17 @@
 .navbar-brand img{
     width: 50px !important;
-    height auto !important;
+    height auto;
 }
 
 .jumbotron {
-    background-image: url(../images/cupcakes.jpg);
+    background-image: url(../images/cupcakes-light.jpg);
     height: 100vh !important;
     width: auto;
     text-align: center;
-<<<<<<< Updated upstream
-=======
     padding-top: 350px;
     background-repeat: no-repeat;
->>>>>>> Stashed changes
+    background-size: cover;
+    padding-top: 350px;
 }
 
 .container {
@@ -25,9 +24,6 @@
 
 .standard a {
     color: white !important;
-<<<<<<< Updated upstream
-}
-=======
 }
 
 .start {
@@ -36,6 +32,7 @@
     width: auto;
     text-align: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .start h1 {
@@ -49,5 +46,6 @@
     text-align: center;
     color: white;
     background-repeat: no-repeat;
+    background-size: cover;
 }
->>>>>>> Stashed changes
+
