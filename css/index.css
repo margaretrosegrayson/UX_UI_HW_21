@@ -8,6 +8,11 @@
     height: 100vh !important;
     width: auto;
     text-align: center;
+<<<<<<< Updated upstream
+=======
+    padding-top: 350px;
+    background-repeat: no-repeat;
+>>>>>>> Stashed changes
 }
 
 .container {
@@ -20,4 +25,29 @@
 
 .standard a {
     color: white !important;
+<<<<<<< Updated upstream
 }
+=======
+}
+
+.start {
+    background-image: url(../images/ingredients.jpg);
+    height: 100vh;
+    width: auto;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.start h1 {
+    color: white;
+}
+
+.tips {
+    background-image: url(../images/tips.jpg);
+    height: 100vh;
+    width: auto;
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+}
+>>>>>>> Stashed changes
